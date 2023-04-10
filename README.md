@@ -1,7 +1,3 @@
 # clone-spring-intro
 
-- 설명: 인프런 김영한 강사님 스프링 강의 코스 첫 번째 강의
-- 공부 내용: 스프링 입문, 웹 MVC, DB 접근 기술, AOP 등 
-- 공부 기술: Spring
-- 공부 시기: 2023.01
-- 강의 출처: https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard
+- [강의 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-10.md)
